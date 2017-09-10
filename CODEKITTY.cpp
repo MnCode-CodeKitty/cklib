@@ -20,7 +20,7 @@ CODEKITTY::CODEKITTY(){
 }
 
 //<<destructor>>
-CODEKITTY::~CODEKITTY();
+CODEKITTY::~CODEKITTY(){};
 
 // ---------- MOTOR CONTROL FUNCTIONS  ----------
 //Drive Forward
