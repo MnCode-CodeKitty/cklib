@@ -1,5 +1,3 @@
-// young suss was here
-
 #ifndef CODEKITTY_H
 #define CODEKITTY_H
 
