@@ -5,8 +5,8 @@
 #define TAIL 6
 #define SOUND 3
 
-const int lspeed = 3000;
-const int rspeed = 0;
+const int lspeed = 0;
+const int rspeed = 3000;
 const int kittyStop = 1500;
 Servo leftServo, rightServo; 
 
