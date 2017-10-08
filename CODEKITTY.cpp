@@ -1,4 +1,5 @@
 #include "CODEKITTY.h"
+#include "pitches.h"
 
 #define LSERVO 9
 #define RSERVO 10
