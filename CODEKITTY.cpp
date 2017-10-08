@@ -4,7 +4,7 @@
 #define LSERVO 9
 #define RSERVO 10
 #define TAIL 6
-#define SOUND 3
+#define SOUND A0
 
 const int lspeed = 0;
 const int rspeed = 3000;
