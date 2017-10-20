@@ -3,7 +3,7 @@
 
 #define LSERVO 9
 #define RSERVO 10
-#define TAIL A3
+#define TAIL 13
 #define SOUND A0
 
 const int lspeed = 0;

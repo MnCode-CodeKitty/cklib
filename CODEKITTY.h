@@ -9,8 +9,8 @@
 
 #define LSERVO 9
 #define RSERVO 10
-#define TAIL A3
-#define SOUND A0
+#define TAIL 13
+#define SOUND a0
 
 class CODEKITTY{
   public:
