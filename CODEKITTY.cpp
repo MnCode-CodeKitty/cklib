@@ -6,7 +6,7 @@
 #define SOUND A0
 
 const int lspeed = 0;
-const int rspeed = 3000;
+const int rspeed = 2985;
 const int kittyStop = 1500;
 Servo leftServo, rightServo; 
 
